@@ -1,1 +1,5 @@
+streamlit
+pickle
+pandas
+zipfile
 sklearn
